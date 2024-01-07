@@ -10,10 +10,6 @@ class Calculator
         int Sub (double, double);
         int Mul (double, double);
         double Dilennia (double, double);
-
-	public:
-		int Add (double, double);
-		int Sub (double, double);
 };
 
 #endif//CALCULATOR_H
